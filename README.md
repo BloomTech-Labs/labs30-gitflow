@@ -49,4 +49,15 @@ The following is a list of steps and instructions on how to complete this guided
 
 - Ryan Hamblin
 - Bernie Durfee
+<<<<<<< HEAD
 - Joon Kim
+=======
+- Erle Granger II
+- TJ Janus
+- Hussain Butt
+- Brenson Whorley
+- Erica Girges
+- Sara Cearc
+- Tom Sherman
+
+>>>>>>> 7f5cb8d775eb368cf584e877eb4b8885e258b34e
