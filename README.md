@@ -49,12 +49,9 @@ The following is a list of steps and instructions on how to complete this guided
 
 - Ryan Hamblin
 - Bernie Durfee
-<<<<<<< HEAD
 - Reuben Palumbo
-=======
 - TJ Janus
 - Hussain Butt
->>>>>>> 1a50b8c77a69fd079b76f86f2fa252a1af7b2e1f
 - Brenson Whorley
 - Erica Girges
 - Sara Cearc
