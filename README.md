@@ -54,6 +54,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 - Ryan Hamblin
 - Bernie Durfee
+- Lester Gomez
 <<<<<<< HEAD
 - Joon Kim
 - Erle Granger II
@@ -72,4 +73,8 @@ The following is a list of steps and instructions on how to complete this guided
 - Erica Girges
 - Sara Cearc
 - Tom Sherman
+<<<<<<< HEAD
 >>>>>>> a7770899d559910700bc22ea3df022f56d86085b
+=======
+- Mark Pekun
+>>>>>>> b4e6fbef7035907b540b7203efe0317e05447009
