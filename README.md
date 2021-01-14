@@ -46,12 +46,28 @@ gin main` **but make sure you're on your branch first** `git branch`.
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
+
+
 ### Your Name
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
 
+
 - Mike Hill
+
+
+- Debbie Cohen
+- Lester Gomez
+- Joon Kim
+- Erle Granger II
+ 
+ 
+
+ 
+- Joon Kim
+ 
+- Anna Brander
 
 - Reuben Palumbo
 - TJ Janus
@@ -60,5 +76,6 @@ gin main` **but make sure you're on your branch first** `git branch`.
 
 - Erica Girges
 - Sara Cearc
+- Sawyer Pearson
 - Tom Sherman
-
+- Mark Pekun
