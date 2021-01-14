@@ -49,3 +49,11 @@ The following is a list of steps and instructions on how to complete this guided
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+<<<<<<< HEAD
+- Brenson Whorley
+=======
+- Erica Girges
+>>>>>>> d695a075afc9abc22271fb3bb933c6271e7ec01a
+- Sara Cearc
+- Tom Sherman
+
