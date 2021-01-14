@@ -33,7 +33,8 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 4️⃣:** Run your typical staging, commit and publish commands:
   - `git status` , `git add <file-name>` , `git commit -m 'your message'` , `git push origin <branch-name>`.
   - 💥**note:** you're pushing to your branch NOT to the main branch. (!!VERY IMPORTANT!!)💥
-- **Step 5️⃣:** Pull down the main branch onto your branch. The easiest way to do this is to simply run `git pull origin main` **but make sure you're on your branch first** `git branch`.
+- **Step 5️⃣:** Pull down the main branch onto your branch. The easiest way to do this is to simply run `git pull origit branch
+gin main` **but make sure you're on your branch first** `git branch`.
 - **Step 6️⃣:** Resolve any merge conflicts.
   - You may see a merge conflict that looks something like this:
     ![merge conflict](https://tk-assets.lambdaschool.com/dd45683f-788d-4bd9-832e-ed901151615f_ScreenShot2020-04-13at8.38.36AM.png)
@@ -45,35 +46,36 @@ The following is a list of steps and instructions on how to complete this guided
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
-<<<<<<< HEAD
+
 
 ### Your Name
-
+- Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+
+
+- Mike Hill
+
+
 - Debbie Cohen
 - Lester Gomez
 - Joon Kim
 - Erle Granger II
-  <<<<<<< HEAD
-  =======
-- I am a merge conflict 👻
-  <<<<<<< HEAD
-  > > > > > > > 6c013c57e33b42e6ef020a8bef23d7a265aede30
-  # =======
+ 
+ 
+
+ 
 - Joon Kim
-  > > > > > > > d3b62ec04896823741a40c24abe32a3a963c75bf
+ 
 - Anna Brander
-- Mike Hill
+
 - Reuben Palumbo
 - TJ Janus
 - Hussain Butt
 - Brenson Whorley
+
 - Erica Girges
 - Sara Cearc
 - Sawyer Pearson
 - Tom Sherman
-  <<<<<<< HEAD
-  > > > > > > > # a7770899d559910700bc22ea3df022f56d86085b
 - Mark Pekun
-  > > > > > > > b4e6fbef7035907b540b7203efe0317e05447009
