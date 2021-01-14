@@ -51,3 +51,4 @@ The following is a list of steps and instructions on how to complete this guided
 - Bernie Durfee
 - I am a merge conflict 👻
 - Anna Brander
+- Tom Sherman
