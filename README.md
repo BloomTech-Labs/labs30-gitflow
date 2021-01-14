@@ -50,3 +50,15 @@ gin main` **but make sure you're on your branch first** `git branch`.
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+
+- Mike Hill
+
+- Reuben Palumbo
+- TJ Janus
+- Hussain Butt
+- Brenson Whorley
+
+- Erica Girges
+- Sara Cearc
+- Tom Sherman
+
