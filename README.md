@@ -52,31 +52,22 @@ gin main` **but make sure you're on your branch first** `git branch`.
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+- Taja H. House
 - Antonio Jimenez
-
-
 - Mike Hill
-
-
 - Debbie Cohen
 - Lester Gomez
 - Joon Kim
-- Erle Granger II
- 
- 
-
- 
+- Erle Granger IIja
 - Joon Kim
- 
 - Anna Brander
-
 - Reuben Palumbo
 - TJ Janus
 - Hussain Butt
 - Brenson Whorley
-
 - Erica Girges
 - Sara Cearc
 - Sawyer Pearson
+- Tom Sherman
 - Tom Sherman
 - Mark Pekun
