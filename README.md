@@ -49,4 +49,17 @@ The following is a list of steps and instructions on how to complete this guided
 
 - Ryan Hamblin
 - Bernie Durfee
+<<<<<<< HEAD
 - Brendan Hoss
+=======
+- I am a merge conflict 👻
+- Anna Brander
+- Mike Hill
+- Reuben Palumbo
+- TJ Janus
+- Hussain Butt
+- Brenson Whorley
+- Erica Girges
+- Sara Cearc
+- Tom Sherman
+>>>>>>> 886195959d9e803e11e41eaa220a905cfa755253
