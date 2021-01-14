@@ -47,5 +47,10 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Your Name
 
+- Ryan Hamblin
 - Bernie Durfee
+<<<<<<< HEAD
 - Erica Girges
+=======
+- I am a merge conflict 👻
+>>>>>>> 6c013c57e33b42e6ef020a8bef23d7a265aede30
