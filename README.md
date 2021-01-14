@@ -50,4 +50,16 @@ The following is a list of steps and instructions on how to complete this guided
 - Ryan Hamblin
 - Bernie Durfee
 - Victor Dronov
+- Lester Gomez
+- Joon Kim
+- Erle Granger II
+- Anna Brander
+- Mike Hill
+- Reuben Palumbo
+- TJ Janus
+- Hussain Butt
+- Brenson Whorley
+- Erica Girges
+- Sara Cearc
 - Tom Sherman
+- Mark Pekun
