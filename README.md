@@ -50,10 +50,22 @@ The following is a list of steps and instructions on how to complete this guided
 - Ryan Hamblin
 - Bernie Durfee
 
+
 - Sean Byrne
 
 - Erica Girges
 - Sara Cearc
 - Tom Sherman
 
+
+- I am a merge conflict 👻
+- Anna Brander
+- Mike Hill
+- Reuben Palumbo
+- TJ Janus
+- Hussain Butt
+- Brenson Whorley
+- Erica Girges
+- Sara Cearc
+- Tom Sherman
 
