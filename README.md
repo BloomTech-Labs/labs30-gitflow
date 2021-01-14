@@ -49,6 +49,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 - Ryan Hamblin
 - Bernie Durfee
+- Debbie Cohen
+- Lester Gomez
+- Joon Kim
+- Erle Granger II
+- Joon Kim
+- Anna Brander
+- Mike Hill
 - Reuben Palumbo
 - TJ Janus
 - Hussain Butt
@@ -56,4 +63,5 @@ The following is a list of steps and instructions on how to complete this guided
 - Erica Girges
 - Sara Cearc
 - Tom Sherman
+- Mark Pekun
 - Rod Hentringer
