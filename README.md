@@ -52,6 +52,7 @@ gin main` **but make sure you're on your branch first** `git branch`.
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+- Antonio Jimenez
 
 
 - Mike Hill
