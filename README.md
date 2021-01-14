@@ -47,5 +47,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Your Name
 
+- Ryan Hamblin
 - Bernie Durfee
 - Josh Whitwell
+- Tom Sherman
