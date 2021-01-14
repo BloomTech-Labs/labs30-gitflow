@@ -49,7 +49,5 @@ The following is a list of steps and instructions on how to complete this guided
 
 - Ryan Hamblin
 - Bernie Durfee
-- Erica Girges
-- Sara Cearc
-- Tom Sherman
+- Daniel Antonio
 
