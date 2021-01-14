@@ -33,7 +33,8 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 4️⃣:** Run your typical staging, commit and publish commands:
   - `git status` , `git add <file-name>` , `git commit -m 'your message'` , `git push origin <branch-name>`.
   - 💥**note:** you're pushing to your branch NOT to the main branch. (!!VERY IMPORTANT!!)💥
-- **Step 5️⃣:** Pull down the main branch onto your branch. The easiest way to do this is to simply run `git pull origin main` **but make sure you're on your branch first** `git branch`.
+- **Step 5️⃣:** Pull down the main branch onto your branch. The easiest way to do this is to simply run `git pull origit branch
+gin main` **but make sure you're on your branch first** `git branch`.
 - **Step 6️⃣:** Resolve any merge conflicts.
   - You may see a merge conflict that looks something like this:
     ![merge conflict](https://tk-assets.lambdaschool.com/dd45683f-788d-4bd9-832e-ed901151615f_ScreenShot2020-04-13at8.38.36AM.png)
@@ -49,11 +50,3 @@ The following is a list of steps and instructions on how to complete this guided
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
-<<<<<<< HEAD
-- Brenson Whorley
-=======
-- Erica Girges
->>>>>>> d695a075afc9abc22271fb3bb933c6271e7ec01a
-- Sara Cearc
-- Tom Sherman
-
