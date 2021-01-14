@@ -45,26 +45,29 @@ The following is a list of steps and instructions on how to complete this guided
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
+
 ### Your Name
 
 - Ryan Hamblin
 - Bernie Durfee
+
 - Taja H. House
 
+- Debbie Cohen
 - Lester Gomez
 - Joon Kim
 - Erle Granger II
-=======
-- I am a merge conflict 👻
+- Joon Kim
 - Anna Brander
 - Mike Hill
 - Reuben Palumbo
->>>>>>> 886195959d9e803e11e41eaa220a905cfa755253
 - TJ Janus
 - Hussain Butt
 - Brenson Whorley
 - Erica Girges
 - Sara Cearc
+- Sawyer Pearson
 - Tom Sherman
 - Tom Sherman
 - Mark Pekun
+ 
