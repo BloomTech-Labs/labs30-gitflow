@@ -45,6 +45,14 @@ The following is a list of steps and instructions on how to complete this guided
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
+<<<<<<< HEAD
 ### Bernie Durfee
 
 ### Sawyer Pearson
+=======
+### Your Name
+
+- Ryan Hamblin
+- Bernie Durfee
+- I am a merge conflict 👻
+>>>>>>> 6c013c57e33b42e6ef020a8bef23d7a265aede30
