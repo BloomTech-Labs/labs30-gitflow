@@ -52,14 +52,15 @@ gin main` **but make sure you're on your branch first** `git branch`.
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+- Victor Dronov
+- Lester Gomez
+- Joon Kim
+- Erle Granger II
+- Debbie Cohen
 - Taja H. House
 - Antonio Jimenez
 - Mike Hill
 - Debbie Cohen
-- Lester Gomez
-- Joon Kim
-- Erle Granger IIja
-- Joon Kim
 - Anna Brander
 - Reuben Palumbo
 - TJ Janus
