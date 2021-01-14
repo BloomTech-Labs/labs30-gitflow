@@ -46,35 +46,34 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 <<<<<<< HEAD
-### Bernie Durfee
 
-### Sawyer Pearson
-=======
 ### Your Name
 
 - Ryan Hamblin
 - Bernie Durfee
+- Debbie Cohen
 - Lester Gomez
-<<<<<<< HEAD
 - Joon Kim
 - Erle Granger II
-=======
+  <<<<<<< HEAD
+  =======
 - I am a merge conflict 👻
-<<<<<<< HEAD
->>>>>>> 6c013c57e33b42e6ef020a8bef23d7a265aede30
-=======
+  <<<<<<< HEAD
+  > > > > > > > 6c013c57e33b42e6ef020a8bef23d7a265aede30
+  # =======
+- Joon Kim
+  > > > > > > > d3b62ec04896823741a40c24abe32a3a963c75bf
 - Anna Brander
 - Mike Hill
 - Reuben Palumbo
->>>>>>> 886195959d9e803e11e41eaa220a905cfa755253
 - TJ Janus
 - Hussain Butt
 - Brenson Whorley
 - Erica Girges
 - Sara Cearc
+- Sawyer Pearson
 - Tom Sherman
-<<<<<<< HEAD
->>>>>>> a7770899d559910700bc22ea3df022f56d86085b
-=======
+  <<<<<<< HEAD
+  > > > > > > > # a7770899d559910700bc22ea3df022f56d86085b
 - Mark Pekun
->>>>>>> b4e6fbef7035907b540b7203efe0317e05447009
+  > > > > > > > b4e6fbef7035907b540b7203efe0317e05447009
