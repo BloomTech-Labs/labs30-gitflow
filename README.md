@@ -51,6 +51,7 @@ The following is a list of steps and instructions on how to complete this guided
 - Bernie Durfee
 
 
+
 - Sean Byrne
 
 - Erica Girges
@@ -59,6 +60,13 @@ The following is a list of steps and instructions on how to complete this guided
 
 
 - I am a merge conflict 👻
+
+- Debbie Cohen
+- Lester Gomez
+- Joon Kim
+- Erle Granger II
+- Joon Kim
+
 - Anna Brander
 - Mike Hill
 - Reuben Palumbo
@@ -68,4 +76,6 @@ The following is a list of steps and instructions on how to complete this guided
 - Erica Girges
 - Sara Cearc
 - Tom Sherman
+
+- Mark Pekun
 
