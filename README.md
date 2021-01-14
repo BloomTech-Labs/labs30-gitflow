@@ -52,6 +52,26 @@ gin main` **but make sure you're on your branch first** `git branch`.
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+
+
+
+- Sean Byrne
+
+- Erica Girges
+- Sara Cearc
+- Tom Sherman
+
+
+- I am a merge conflict 👻
+
+- Debbie Cohen
+- Lester Gomez
+- Joon Kim
+- Erle Granger II
+- Joon Kim
+
+- Anna Brander
+
 - Melissa Cela
 - Victor Dronov
 - Lester Gomez
@@ -60,6 +80,7 @@ gin main` **but make sure you're on your branch first** `git branch`.
 - Debbie Cohen
 - Taja H. House
 - Antonio Jimenez
+
 - Mike Hill
 - Debbie Cohen
 - Anna Brander
@@ -72,4 +93,6 @@ gin main` **but make sure you're on your branch first** `git branch`.
 - Sawyer Pearson
 - Tom Sherman
 - Tom Sherman
+
 - Mark Pekun
+
