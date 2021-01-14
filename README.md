@@ -33,7 +33,8 @@ The following is a list of steps and instructions on how to complete this guided
 - **Step 4️⃣:** Run your typical staging, commit and publish commands:
   - `git status` , `git add <file-name>` , `git commit -m 'your message'` , `git push origin <branch-name>`.
   - 💥**note:** you're pushing to your branch NOT to the main branch. (!!VERY IMPORTANT!!)💥
-- **Step 5️⃣:** Pull down the main branch onto your branch. The easiest way to do this is to simply run `git pull origin main` **but make sure you're on your branch first** `git branch`.
+- **Step 5️⃣:** Pull down the main branch onto your branch. The easiest way to do this is to simply run `git pull origit branch
+gin main` **but make sure you're on your branch first** `git branch`.
 - **Step 6️⃣:** Resolve any merge conflicts.
   - You may see a merge conflict that looks something like this:
     ![merge conflict](https://tk-assets.lambdaschool.com/dd45683f-788d-4bd9-832e-ed901151615f_ScreenShot2020-04-13at8.38.36AM.png)
@@ -46,20 +47,20 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 
-### Your Name
 
+### Your Name
+- Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
-
 - Taja H. House
-
+- Antonio Jimenez
+- Mike Hill
 - Debbie Cohen
 - Lester Gomez
 - Joon Kim
-- Erle Granger II
+- Erle Granger IIja
 - Joon Kim
 - Anna Brander
-- Mike Hill
 - Reuben Palumbo
 - TJ Janus
 - Hussain Butt
@@ -70,4 +71,3 @@ The following is a list of steps and instructions on how to complete this guided
 - Tom Sherman
 - Tom Sherman
 - Mark Pekun
- 
