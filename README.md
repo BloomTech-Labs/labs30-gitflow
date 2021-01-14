@@ -45,6 +45,8 @@ The following is a list of steps and instructions on how to complete this guided
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
+<<<<<<< HEAD
+
 ### Your Name
 
 - Ryan Hamblin
@@ -53,7 +55,14 @@ The following is a list of steps and instructions on how to complete this guided
 - Lester Gomez
 - Joon Kim
 - Erle Granger II
+  <<<<<<< HEAD
+  =======
+- I am a merge conflict 👻
+  <<<<<<< HEAD
+  > > > > > > > 6c013c57e33b42e6ef020a8bef23d7a265aede30
+  # =======
 - Joon Kim
+  > > > > > > > d3b62ec04896823741a40c24abe32a3a963c75bf
 - Anna Brander
 - Mike Hill
 - Reuben Palumbo
@@ -62,5 +71,9 @@ The following is a list of steps and instructions on how to complete this guided
 - Brenson Whorley
 - Erica Girges
 - Sara Cearc
+- Sawyer Pearson
 - Tom Sherman
+  <<<<<<< HEAD
+  > > > > > > > # a7770899d559910700bc22ea3df022f56d86085b
 - Mark Pekun
+  > > > > > > > b4e6fbef7035907b540b7203efe0317e05447009
