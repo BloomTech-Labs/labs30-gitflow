@@ -51,6 +51,7 @@ The following is a list of steps and instructions on how to complete this guided
 - Bernie Durfee
 - Debbie Cohen
 - Erle Granger II
+- Mike Hill
 - Reuben Palumbo
 - TJ Janus
 - Hussain Butt
