@@ -50,3 +50,7 @@ The following is a list of steps and instructions on how to complete this guided
 - Ryan Hamblin
 - Bernie Durfee
 - Reuben Palumbo
+- Brenson Whorley
+- Erica Girges
+- Sara Cearc
+- Tom Sherman
