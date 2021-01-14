@@ -53,6 +53,7 @@ The following is a list of steps and instructions on how to complete this guided
 - Lester Gomez
 - Joon Kim
 - Erle Granger II
+- Debbie Cohen
 - Anna Brander
 - Mike Hill
 - Reuben Palumbo
