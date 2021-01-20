@@ -50,6 +50,9 @@ The following is a list of steps and instructions on how to complete this guided
 - Joe Panetta
 - Ryan Hamblin
 - Bernie Durfee
+
+- André Jeon
+
 - Josh Whitwell
 - Brian Kubes
 - Sean Byrne
@@ -83,3 +86,4 @@ The following is a list of steps and instructions on how to complete this guided
 - Tom Sherman
 - Tzong-Lian Tsay
 - Mark Pekun
+
