@@ -47,39 +47,4 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Your Name
 
-- Joe Panetta
-- Ryan Hamblin
-- Bernie Durfee
-- Josh Whitwell
-- Brian Kubes
-- Sean Byrne
-- Erica Girges
-- Sara Cearc
-- Tom Sherman
-- Debbie Cohen
-- Lester Gomez
-- Joon Kim
-- Erle Granger II
-- Joon Kim
-- Anna Brander
-- Melissa Cela
-- Victor Dronov
-- Lester Gomez
-- Joon Kim
-- Erle Granger II
-- Debbie Cohen
-- Taja H. House
-- Antonio Jimenez
-- Mike Hill
-- Debbie Cohen
-- Anna Brander
-- Reuben Palumbo
-- TJ Janus
-- Hussain Butt
-- Brenson Whorley
-- Erica Girges
-- Sara Cearc
-- Sawyer Pearson
-- Tom Sherman
-- Tzong-Lian Tsay
-- Mark Pekun
+- Mudesir Suleyman
